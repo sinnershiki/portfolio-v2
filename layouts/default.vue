@@ -1,6 +1,17 @@
 <template>
-  <div>
-    <nuxt />
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3">
+        <ul>
+          <li><a href="/">profile</a></li>
+          <li><a href="/activity">activity</a></li>
+          <li><a href="http://sinner-shiki.hatenablog.com/" target="_blank">blog</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-9">
+        <nuxt />
+      </div>
+    </div>
   </div>
 </template>
 
