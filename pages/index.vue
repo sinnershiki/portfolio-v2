@@ -1,6 +1,9 @@
 <template>
 <div>
   <h1>sinner_shiki info</h1>
+  <div class="message">
+    リニューアル中
+  </div>
   <ul>
     <li>
       <a href="https://twitter.com/sinner_shiki" target="_blank">twitter</a>
